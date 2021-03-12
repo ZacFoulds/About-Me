@@ -16,4 +16,5 @@ Played basketball in America, played footy on the MCG
 I chose to come to IT because i have a passion for helping others and want to get a greater understanding and knowledge into IT so I can hopefully one day start my own business and teach the fundamentals and basics that I have learnt to another person to make their life easier with technology. 
 From my studies I expect to learn a vast and variance overview of technology as a whole. I’m doing this course to gain a variety of skills that I can use in the real world. I am doing this course to have my knowledge within the IT field so that once I complete the course I can start my own business. <body>
 <h1> Ideal Job <h1>
-<h1> Personal Project <h1>
+<h1> Personal Profile <h1>
+<h1> Project Idea <h1>
