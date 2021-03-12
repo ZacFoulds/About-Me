@@ -1,6 +1,7 @@
 <html>
   <h1> All About Me <h1>
     <h1> Personal Information <h1>
+    <body> Welcome, My name is Zac FOulds and I am 20 years olds. I completed year 12 VCE in 2018 and since then I have done a little bit of everything, I've worked as an apprentice electrician for a year, worked behind a bar and done some of my own self employed work. 
     <body> Zac Fouldss3904350
 s3904350@student.rmit.edu.au
 Australian
