@@ -1,24 +1,183 @@
+<!DOCTYPE html>
 <html>
-<h1> Zac Foulds <h1>
-<h1> Personal Information <h1>
-<body> Welcome, My name is Zac Foulds and I am 20 years olds. I completed year 12 VCE in 2018 and since then I have done a little bit of everything, I've worked as an apprentice electrician for a year, worked behind a bar and done some of my own self employed work. <body>
-   
-   
-<body> Zac Foulds
-s3904350
-s3904350@student.rmit.edu.au
-Australian
-(Picture Uploaded Here)
-Completed VCE in 2018, I’ve completed my first year of my electrical apprenticeship
-I speak English and can speak very little Italian learnt in primary school and very little Indonesian learnt in high school.
-My hobbies include playing sports such as footy, cricket and basketball, and I have no pets yet. 
-Love to travel around the world
-Played basketball in America, played footy on the MCG
-<body>
-<h1>Interest in IT <h1>
-  <body>My interest in IT started back in primary school when I got my hands on my first DS. I started gaming when I was at a young age and only used and experienced more gaming consoles to the present day. My interest in IT today is very broad, I like video gaming with friends, learning about automation. I have an interest in setting up home networks and running cables as I learnt this during my apprenticeship. I enjoy watching various you tubers talk about technology. I have an interest in Tesla and Elon Musk and the technology side of car automation and renewable energy. Elon Musk through watching and listening to various podcasts with him in including the Joe Rogan podcast found myself fascinated in renewable energy and automation of vehicles. Besides Musk no one else has really sparked my interest for IT, my cousin was big into gaming so possibly introducing me into that at a young age has helped my passion for IT.
-I chose to come to IT because i have a passion for helping others and want to get a greater understanding and knowledge into IT so I can hopefully one day start my own business and teach the fundamentals and basics that I have learnt to another person to make their life easier with technology. 
-From my studies I expect to learn a vast and variance overview of technology as a whole. I’m doing this course to gain a variety of skills that I can use in the real world. I am doing this course to have my knowledge within the IT field so that once I complete the course I can start my own business. <body>
-<h1> Ideal Job <h1>
-<h1> Personal Profile <h1>
-<h1> Project Idea <h1>
+<head>
+<title>Student Name - ePortfolio</title>
+
+<meta name="viewport" content="width=device-width"/>
+<meta name="description" content="ePortfolio for Student Name."/>
+<meta charset="UTF-8"> 
+
+<link type="text/css" rel="stylesheet" href="style.css">
+<link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700|Lato:400,300' rel='stylesheet' type='text/css'>
+
+
+</head>
+<body id="top">
+<div id="cv" class="instaFade">
+	<div class="mainDetails">
+		<div id="headshot" class="quickFade">
+			<img src="headshot.jpg" alt="Student Name" />
+		</div>
+		
+		<div id="name">
+			<h1 class="quickFade delayTwo">Student Name</h1>
+			<h2 class="quickFade delayThree">ePortfolio</h2>
+		</div>
+		
+		<div id="contactDetails" class="quickFade delayFour">
+			<ul>
+				<li>#: s1234567</li>
+				<li>e: <a href="mailto:student@rmit.edu.au" target="_blank">student@rmit.edu.au</a></li>
+				<li>w: <a href="http://www.github.com">www.github.com/</a></li>
+				<li>m: +61 012 345 678</li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+	
+	<div id="mainArea" class="quickFade delayFive">
+		<section>
+			<article>
+				<div class="sectionTitle">
+					<h1>Personal Information</h1>
+				</div>
+				
+				<div class="sectionContent">
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dolor metus, interdum at scelerisque in, porta at lacus. Maecenas dapibus luctus cursus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.</p>
+				</div>
+			</article>
+			<div class="clear"></div>
+		</section>
+		
+		<section>
+			<article>
+				<div class="sectionTitle">
+					<h1>Interest in IT</h1>
+				</div>
+				
+				<div class="sectionContent">
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dolor metus, interdum at scelerisque in, porta at lacus. Maecenas dapibus luctus cursus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.</p>
+				</div>
+			</article>
+			<div class="clear"></div>
+		</section>
+		
+		<section>
+			<div class="sectionTitle">
+				<h1>Ideal Job</h1>
+			</div>
+			
+			<div class="sectionContent">
+				<article>
+					<h2>Job Title</h2>
+					<h3>Description</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.</p>
+					<h3>Skills I have</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.</p>
+					<h3>Skills I Need</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.</p>
+					<h3>Learning Plan</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.</p>
+				</article>
+				
+			</div>
+			<div class="clear"></div>
+		</section>
+		
+		<section>
+			<div class="sectionTitle">
+				<h1>Key Skills</h1>
+			</div>
+			
+			<div class="sectionContent">
+				<ul class="keySkills">
+					<li>A Key Skill</li>
+					<li>A Key Skill</li>
+					<li>A Key Skill</li>
+					<li>A Key Skill</li>
+					<li>A Key Skill</li>
+					<li>A Key Skill</li>
+					<li>A Key Skill</li>
+					<li>A Key Skill</li>
+				</ul>
+			</div>
+			<div class="clear"></div>
+		</section>
+
+		<section>
+			<div class="sectionTitle">
+				<h1>Personality Profile</h1>
+				<img src="gandalf.png" alt="Gandalf" />
+			</div>
+			
+			<div class="sectionContent">
+				<article>
+					<h2>Myers Briggs Type Indicator</h2>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim.</p>
+					<h3>Strengths</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.</p>
+					<h3>Weaknesses</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.</p>
+					<h3>Team Composition</h3>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.</p>
+					<p><img src="mbti_results.png" alt="MBTI Results" /></p>
+				</article>
+				
+				<article>
+					<h2>Test Two</h2>
+					<p class="subDetails">Learning Preferences</p>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.</p>
+				</article>
+				
+				<article>
+					<h2>Test Three</h2>
+					<p class="subDetails">Big 5 Factors</p>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.</p>
+				</article>
+			</div>
+			<div class="clear"></div>
+		</section>
+		
+		<section>
+			<div class="sectionTitle">
+				<h1>Project Idea</h1>
+			</div>
+			
+			<div class="sectionContent">
+				<article>
+					<h2>Overview</h2>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim.</p>
+				</article>
+
+				<article>
+					<h2>Motivation</h2>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim.</p>
+				</article>
+				
+				<article>
+					<h2>Description</h2>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dolor metus, interdum at scelerisque in, porta at lacus. Maecenas dapibus luctus cursus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.</p>
+				</article>
+
+				<article>
+					<h2>Tools and Technologies</h2>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.</p>
+				</article>
+
+				<article>
+					<h2>Skills Required</h2>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim.</p>
+				</article>
+
+				<article>
+					<h2>Outcome</h2>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim.</p>
+				</article>
+			</div>
+			<div class="clear"></div>
+		</section>
+		
+	</div>
+</div>
+</body>
+</html>
